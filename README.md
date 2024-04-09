@@ -24,11 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week37| DP | [백준 - 신나는 함수 실행](https://www.acmicpc.net/problem/9184) | 실2 |
-|Week37| 그리디 | [백준 - 강의실 배정](https://www.acmicpc.net/problem/11000) | 골5 |
-|Week37| 최단경로 | [백준 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 골4 |
-|Week37| 그리디 | [프로그래머스 - 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | Lv3 |
-|Week37| 구현 | [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv2 |
+|Week38| 구현 | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
+|Week37| 구현 | [프로그래머스 - 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | Lv2 |
+|Week37| 구현 | [프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | Lv3 |
+|Week37| 해시 | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
+|Week37| 구현 | [프로그래머스 - N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | Lv2 |
 
 <br/>
 
@@ -105,6 +105,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week37| DP | [백준 - 신나는 함수 실행](https://www.acmicpc.net/problem/9184) | 실2 |
+|Week37| 그리디 | [백준 - 강의실 배정](https://www.acmicpc.net/problem/11000) | 골5 |
+|Week37| 최단경로 | [백준 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 골4 |
+|Week37| 그리디 | [프로그래머스 - 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | Lv3 |
+|Week37| 구현 | [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv2 |
 |Week36| 구현 | [소프티어 - 8단 변속기](https://softeer.ai/practice/6283) | Lv2 |
 |Week36| 구현 | [소프티어 - 우물 안 개구리](https://softeer.ai/practice/6289) | Lv3 |
 |Week36| 백트래킹 | [소프티어 - 순서대로 방문하기](https://softeer.ai/practice/6246) | Lv3 |

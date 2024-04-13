@@ -25,10 +25,10 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week38| 구현 | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
-|Week37| 구현 | [프로그래머스 - 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | Lv2 |
-|Week37| 구현 | [프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | Lv3 |
-|Week37| 해시 | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
-|Week37| 구현 | [프로그래머스 - N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | Lv2 |
+|Week38| 구현 | [프로그래머스 - 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | Lv2 |
+|Week38| 구현 | [프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | Lv3 |
+|Week38| 해시 | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
+|Week38| 구현 | [프로그래머스 - N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | Lv2 |
 
 <br/>
 
